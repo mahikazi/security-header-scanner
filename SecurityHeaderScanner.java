@@ -101,7 +101,6 @@ public class SecurityHeaderScanner {
         
         } catch (Exception e) {
             System.out.println("Failed to analyze: " + url);
-            System.out.println("Reason: The URL may be incorrect or unreachable.");
         }
     }
 }
