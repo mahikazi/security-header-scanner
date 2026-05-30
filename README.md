@@ -6,3 +6,5 @@ Java tool that analyzes HTTP response headers for common web security misconfigu
 This shows the tool scanning websites and reporting missing or present security headers.
 
 ![Security Header Scan Result](screenshots/scan-output-1.png)
+![Security Header Scan Result](screenshots/scan-output-2.png)
+![Security Header Scan Result](screenshots/scan-output-3.png)
